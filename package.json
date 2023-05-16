@@ -1,7 +1,6 @@
 {
   "name": "react-task",
   "version": "0.1.0",
-  "homepage":"https://github.com/shobhitsing/reactApp",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.0",
